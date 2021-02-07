@@ -1,5 +1,4 @@
 
-<?php// header("Refresh: 4; url=https://help.instagram.com/"); ?>
 <!DOCTYPE html> 
 <html>
 <head>
